@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/kai_jota/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discordapp.com/users/kaijota" target="_blank">
+  <a href="[https://discordapp.com/users/kaijota](https://discord.gg/DYQUSqEh9M)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="j.k.b.m@hotmail.com" target="_blank">
